@@ -1,0 +1,3 @@
+FAMILY=apollo4
+PACKAGE=AM_PACKAGE_BGA
+BOARD=apollo4_eb
