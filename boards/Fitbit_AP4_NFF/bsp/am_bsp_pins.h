@@ -912,7 +912,7 @@ extern am_hal_gpio_pincfg_t g_AM_BSP_GPIO_DISP_DSI_TE;
 // ITM_SWO pin: ITM Serial Wire Output.
 //
 //*****************************************************************************
-#define AM_BSP_GPIO_ITM_SWO                 28
+#define AM_BSP_GPIO_ITM_SWO                 23
 extern am_hal_gpio_pincfg_t g_AM_BSP_GPIO_ITM_SWO;
 
 #ifdef __cplusplus

@@ -2637,7 +2637,7 @@ am_hal_gpio_pincfg_t g_AM_BSP_GPIO_DISP_DSI_TE =
 //*****************************************************************************
 am_hal_gpio_pincfg_t g_AM_BSP_GPIO_ITM_SWO =
 {
-    .GP.cfg_b.uFuncSel             = AM_HAL_PIN_28_SWO,
+    .GP.cfg_b.uFuncSel             = AM_HAL_PIN_23_SWO,
     .GP.cfg_b.eGPInput             = AM_HAL_GPIO_PIN_INPUT_NONE,
     .GP.cfg_b.eGPRdZero            = AM_HAL_GPIO_PIN_RDZERO_READPIN,
     .GP.cfg_b.eIntDir              = AM_HAL_GPIO_PIN_INTDIR_NONE,
